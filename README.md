@@ -154,19 +154,26 @@ curl -X POST "http://localhost:8080/admin/config/failure-mode?mode=FAIL_CLOSED"
 curl http://localhost:8080/metrics
 curl http://localhost:8080/metrics/timeseries
 
-## 🖼 Dashboard Screenshots
 
 📌 Have a Look Here 
 
 ## 🖼 Dashboard Preview
 
 ### Traffic & Metrics
-![Traffic Dashboard](screenshots/dashboard-traffic.png)
-<img width="1871" height="651" alt="image" src="https://github.com/user-attachments/assets/14f8818f-a217-47b9-8e51-062ddd684c26" />
-
+<img width="1864" height="616" alt="image" src="https://github.com/user-attachments/assets/622d27a1-2e39-420d-9c71-d7aa24afc008" />
 
 ### Admin Controls
-![Admin Controls](screenshots/admin-controls.png)
+<img width="1071" height="379" alt="image" src="https://github.com/user-attachments/assets/04839ab8-1576-422c-ad6d-5194c1d019b7" />
+
 
 ### Rate Limiting Graphs
-![Graphs](screenshots/graphs.png)
+<img width="1849" height="530" alt="image" src="https://github.com/user-attachments/assets/acb941b8-6b62-4829-82f2-9d50e6ace61a" />
+
+### Full Dashboard Preview 
+<img width="1881" height="870" alt="image" src="https://github.com/user-attachments/assets/5adb1c89-6c04-46a6-a9bc-43370cf0fde1" />
+
+## 🖼 Docker Desktop ( Redis Container )
+<img width="1881" height="990" alt="image" src="https://github.com/user-attachments/assets/4102ca87-a97d-44a7-bbaf-f5206033989e" />
+
+
+
