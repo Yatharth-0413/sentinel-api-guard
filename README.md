@@ -4,7 +4,6 @@ An **enterprise-grade API Rate Limiting, Abuse Detection, and Observability plat
 
 This project simulates how **real API Gateways / Platform teams** design, monitor, and control traffic in production systems.
 
-> 🎯 Built with an SDE-2 mindset: control-plane + data-plane separation, runtime configuration, fail-safe design, and real-time observability.
 
 ---
 
