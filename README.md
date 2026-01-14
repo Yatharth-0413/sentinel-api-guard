@@ -162,6 +162,8 @@ curl http://localhost:8080/metrics/timeseries
 
 ### Traffic & Metrics
 ![Traffic Dashboard](screenshots/dashboard-traffic.png)
+<img width="1871" height="651" alt="image" src="https://github.com/user-attachments/assets/14f8818f-a217-47b9-8e51-062ddd684c26" />
+
 
 ### Admin Controls
 ![Admin Controls](screenshots/admin-controls.png)
